@@ -1,0 +1,12 @@
+{"Twitter_Blue_Tick":{"query":"bluetick, tick, blue (bluetick) (#bluetick)","section":"top","limit":"20","language":"en"},
+ "Russia_Ukrain_War":{"query":" (#RussiaIsLosing OR #RussiaUkraineWar OR #GuerreEnUkraine OR #Ukraine OR #FreeUkraine OR #RussiaGoHome OR #StandWithUkraine OR #gaz) lang:en","section":"top","limit":"20","language":"en"},
+ "Climate_Change":{"query":"climate change  (# OR #Climate OR #EarthDay OR #Green OR #Glacier OR #Temperature)","section":"top","limit":"20","language":"en"},
+ "Elon_Musk":{"query":"Tesla Elon Musk (#Elon OR #Musk OR #Bluetick) lang:en","section":"top","limit":"20","language":"en"},
+ "Football":{"query":"soccer football ronaldo messi  (#Football OR #Soccer OR #Ronaldo OR #Messi OR #ALNassr OR #SAUDI)","section":"top","limit":"20","language":"en"},
+ "IPL":{"query":"cricket ipl t20  (#Thala OR #IPL OR #IPT2023 OR #DHONI OR #MS OR #Sachin) lang:en","section":"top","limit":"20","language":"en"},
+ "headers":{"X-RapidAPI-Key": "Put API Key( I removed due to security purpose)",
+                  "X-RapidAPI-Host": "twitter154.p.rapidapi.com"}
+}
+ 
+ 
+
