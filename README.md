@@ -1,4 +1,7 @@
 # Twitter-Streaming-Sentiment-Analysis-
+Streaming Pipeliene: 
+![image](twitter_streaming.png)
+
 1. Building Robust Streaming Data Pipeline
 To begin with, we extract Tweets from Twitter via a third-party API from Rapid API. We then integrate the APIs
 along Apache NiFi – an open-source tool facilitating easy ingestion and processing of large volumes of streaming
@@ -21,5 +24,3 @@ Our goal was to build functional pipelines able to handle vast quantities of onl
 understand attitudes toward different topics. This system can be used for various applications from social media
 tracking, and brand reputation management to market research and more – all in real-time.'
 
-Streaming Pipeliene: 
-![image](https://github.com/faiyaz106/Twitter-Streaming-Sentiment-Analysis-/assets/25295396/f04c052b-2aeb-484e-911d-69e13b80c388)
